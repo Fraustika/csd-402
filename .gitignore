@@ -173,3 +173,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 /module-2/JavaApplication2/nbproject/private/
+/module-3/JavaApplication3/nbproject/private/
